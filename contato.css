@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serifsa;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+footer img {
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 50px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 5px;
+}

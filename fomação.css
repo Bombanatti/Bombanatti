@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-color: rgb(5, 1, 20);
+    font-family: Arial, Helvetica, sans-serifsa;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+.container {
+    padding: 0px 50px;
+
+ 
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  p {
+    margin-top: 40px;
+  }
